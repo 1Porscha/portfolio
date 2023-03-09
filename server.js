@@ -1,6 +1,5 @@
 const express = require('express')
 
-
 const path = require("path");
 // logs different request to our server
 const logger = require("morgan");
